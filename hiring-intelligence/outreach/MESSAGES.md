@@ -21,7 +21,7 @@ Versión 2 (2026-10-13). **Reemplaza** los borradores anteriores. El "Mensaje 1/
 **Mensaje a la agencia, solo después del sí:**
 > Hola [nombre], [contacto] me comentó que te parecía bien que te escribiera. Gracias.
 > Te cuento directo: ofrezco informes de empresas de [ciudad] con señales verificadas de contratación en [especialidad], con antecedentes públicos de uso de intermediarios y con descarte de empresas que tienen selección interna. Cada dato va con fuente y fecha.
-> Te adjunto una ficha de ejemplo, Prosper AI (todo información pública). Si te resulta útil, te explico el piloto: 3 empresas con criterios objetivos, €150. Si no, ningún problema y no vuelvo a escribirte.
+> Te adjunto una ficha de ejemplo, Prosper AI (todo información pública). Si te resulta útil, te explico cómo funciona un piloto acotado (se paga solo por empresa que cumple criterios objetivos). Si no, ningún problema y no vuelvo a escribirte.
 
 ### Canal 2: contenido público propio (inbound con autorización explícita)
 **Cómo funciona:** publicás en tu perfil de LinkedIn, o en una página propia, una nota mensual con hechos públicos sobre **empresas**, sin datos personales. Al final ofrecés el informe completo **a quien lo pida**. Una agencia que comenta, te escribe o completa un formulario con opt-in está solicitando la información.
@@ -38,22 +38,18 @@ Versión 2 (2026-10-13). **Reemplaza** los borradores anteriores. El "Mensaje 1/
 ### Canal 3: responder a convocatorias públicas
 **Cómo funciona:** si una agencia publica que busca un *researcher*, *sourcer freelance*, apoyo de BD o *market research*, postularse es responder a una solicitud. **No encontramos ninguna convocatoria concreta en esta ronda** (el investigador de canales falló por el límite de sesión). Hay que revisar las páginas de empleo de las agencias, Malt y LinkedIn Jobs.
 **Mensaje:**
-> Hola, vi vuestra búsqueda de [puesto] ([enlace]). No soy recruiter, pero ofrezco exactamente la parte de investigación: empresas de [ciudad] con señales verificadas de contratación en [especialidad], con fuente y fecha. Os puedo enviar una ficha de ejemplo y trabajar por entregable (3 empresas por €150) o en el formato que necesitéis.
+> Hola, vi vuestra búsqueda de [puesto] ([enlace]). No soy recruiter, pero ofrezco exactamente la parte de investigación: empresas de [ciudad] con señales verificadas de contratación en [especialidad], con fuente y fecha. Os puedo enviar una ficha de ejemplo y trabajar por entregable o en el formato que necesitéis.
 
 ### Canal 4: eventos y comunidades
 Eventos de RR. HH. y recruiting en Barcelona/Madrid, webinars online y comunidades de recruiters. **Sin instancias verificadas todavía.** Hablar en un evento o responder en una comunidad donde alguien pide algo es una conversación iniciada por la otra parte.
 **Mensaje tras conversación en un evento o comunidad (solo si la persona pidió seguir en contacto):**
-> Como hablamos en [evento], te paso la ficha de ejemplo. Si te sirve, el piloto son 3 empresas con criterios objetivos por €150.
+> Como hablamos en [evento], te paso la ficha de ejemplo. Si te sirve, te explico el piloto acotado.
 
 ### Canal 5 (zona gris, NO usar sin consulta legal): formulario web o mensaje directo en frío
 Si algún día se usa, sería un único mensaje identificado como publicidad, sin seguimiento y con baja inmediata a pedido. **Hoy no está autorizado.**
 
 ## Respuesta a una agencia que pidió información
-> **Publicidad.** Hola [nombre], gracias por escribir.
-> Piloto: 3 empresas de [ciudad] y [especialidad] que cumplen 6 criterios verificables (evento fechado en los últimos 60 días, vacante técnica comprobada, sin TA interno visible, fuera de vuestra lista de exclusión, hechos e inferencias separados, antecedente de intermediación cuando exista), más 2-3 descartes razonados.
-> Entrega en 5 días hábiles desde que me mandéis vuestra especialidad y la lista de exclusión. Precio: €150 por adelantado. Si una empresa no cumple un criterio, la repongo en 3 días.
-> No incluye datos de contacto personales ni garantiza que la empresa contrate agencias.
-> Si no queréis recibir más mensajes, decídmelo y no vuelvo a escribir.
+Usar la oferta de `DEMAND_VALIDATION.md` §2 (búsqueda acotada, €50 por empresa que cumple criterios, anticipo de €50 reembolsable si se entregan 0, tope de €150), con encabezado "Publicidad" si va por un medio electrónico. **No enviar sin tu autorización y sin el cobro verificado.**
 
 ## Lo que NO hacemos
 - Emails, LinkedIn o WhatsApp en frío con ofertas o "entrevistas" pensadas para vender.

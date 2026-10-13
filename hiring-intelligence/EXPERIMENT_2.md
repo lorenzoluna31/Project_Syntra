@@ -1,3 +1,5 @@
+> **Plan activo reemplazado por `DEMAND_VALIDATION.md`** (2026-10-13). La oferta de €150 por 3 empresas se retiró porque prometía un volumen no demostrado. El diseño A/B/C queda como referencia para después de las conversaciones.
+
 # Experimento 2: ¿valen más los antecedentes de reclutamiento externo que las alertas tradicionales?
 
 Estado: **diseñado, no ejecutado.** No se contactó a nadie. Requiere tu autorización y antes que eso las verificaciones de `NEXT_STEPS.md`.

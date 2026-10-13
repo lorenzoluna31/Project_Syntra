@@ -1,5 +1,7 @@
 # Próximos pasos
 
+> **2026-10-13: el plan activo y la lista de autorizaciones están en `DEMAND_VALIDATION.md` §8.** Lo de abajo queda como contexto. Las verificaciones 1 y 5 de Prosper ya las hizo el fundador. No se hace más investigación amplia.
+
 Actualizado: 2026-10-13 (después de las rondas 2 y 3).
 
 ## Decisión de esta etapa

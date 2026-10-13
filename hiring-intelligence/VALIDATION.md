@@ -49,3 +49,6 @@
 
 ## Métricas a registrar
 Agencias investigadas · contactos intentados · respuestas · entrevistas · muestras pedidas · ofertas enviadas · pagos · utilidad declarada · 2.ª compra · **horas por informe**.
+
+## Cambio de prioridad (2026-10-13)
+Se detiene la investigación amplia. Próxima evidencia: conversaciones con compradores (`DEMAND_VALIDATION.md`). Criterios de continuar, modificar o abandonar fijados en §4 antes de hablar con nadie.

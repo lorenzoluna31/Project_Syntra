@@ -1,5 +1,7 @@
 # Modelo de negocio y supuestos
 
+> **Actualización 2026-10-13:** la oferta vigente y la economía completa (con adquisición) están en `DEMAND_VALIDATION.md` §2 y §5. La oferta de €150 por 3 empresas de abajo queda **retirada**.
+
 Estado: **hipótesis, 0 ventas, 0 contactos.** Última actualización: 2026-10-13 (v2).
 
 ## Cambios de hipótesis en esta versión
