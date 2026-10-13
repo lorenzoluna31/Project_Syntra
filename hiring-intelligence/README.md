@@ -11,6 +11,8 @@ Inteligencia comercial para **agencias boutique de selección tech en España**:
 - **Nueva prioridad: validar la demanda** (`DEMAND_VALIDATION.md`). Conversaciones con 3-5 agencias por canales permitidos, demo del Modelo C para Kulturo (`reports/MODEL_C_DEMO_Kulturo.md`) y piloto acotado (€50 por empresa que cumple criterios, anticipo reembolsable). **Sin más investigación amplia.**
 - **Economía:** el primer piloto da €0-10/h. El modelo solo es viable si las agencias pagan unos €150-200 o más por oportunidad; no hay evidencia de que lo hagan.
 
+- **2026-10-13 (tarde):** kit comercial listo. **Obstáculo:** en España no hay un canal accesible desde cero compatible con la LSSI. Argentina (opt-out) es el canal medible. Wise Personal no sirve para cobrar a clientes; Payoneer es el candidato, sin confirmar. Oferta nueva: fichas de cuenta elegidas por la agencia, €45 cada una.
+
 ## Limitaciones activas
 - Sin acceso web directo: solo buscador, que devuelve resúmenes (`NETWORK_SETUP.md`). Límite de 200 búsquedas por turno.
 - El cobro en EUR desde Argentina no está verificado.
@@ -18,6 +20,8 @@ Inteligencia comercial para **agencias boutique de selección tech en España**:
 ## Archivos
 | Archivo | Contenido |
 |---|---|
+| `ACQUISITION_PLAN.md` | **Plan activo**: canales desde cero, obstáculo estructural en España, experimento de 2 semanas, cobro, criterios A/B/C |
+| `kit/` | **Kit comercial mínimo** (demo, publicación, mensajes, guion, oferta, tracker) |
 | `DEMAND_VALIDATION.md` | **Plan activo**: piloto, conversaciones, economía, criterios de decisión y autorizaciones |
 | `reports/MODEL_C_DEMO_Kulturo.md` | Demo de "empresas parecidas a Murphy AI" para preguntar a Kulturo |
 | `NEXT_STEPS.md` | **Acciones del fundador**, autorizaciones y riesgos |
