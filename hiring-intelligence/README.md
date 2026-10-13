@@ -20,6 +20,7 @@ Inteligencia comercial para **agencias boutique de selección tech en España**:
 ## Archivos
 | Archivo | Contenido |
 |---|---|
+| `argentina/` | **Plan activo (2026-10-13 noche):** prueba comercial en Argentina con modelos A y B, 17 agencias, mensajes y base legal |
 | `ACQUISITION_PLAN.md` | **Plan activo**: canales desde cero, obstáculo estructural en España, experimento de 2 semanas, cobro, criterios A/B/C |
 | `kit/` | **Kit comercial mínimo** (demo, publicación, mensajes, guion, oferta, tracker) |
 | `DEMAND_VALIDATION.md` | **Plan activo**: piloto, conversaciones, economía, criterios de decisión y autorizaciones |
