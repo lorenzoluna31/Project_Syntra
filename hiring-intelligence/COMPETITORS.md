@@ -35,3 +35,20 @@ Apollo, ZoomInfo, Lusha, Hunter (bases de contactos y alertas). LinkedIn Sales N
 - **Tecnología:** *ninguna ventaja*. No la buscamos.
 
 **Conclusión:** no hay una ventaja defendible demostrada. Hay una ventaja **de entrada** plausible: un servicio en español, curado y con descarte explícito. Vale la pena probarla con un costo bajo.
+
+---
+
+## Actualización 2026-10-13 (rondas 2 y 3): la señal "empresa que ya usa agencias"
+
+- **Es una práctica de BD conocida.**
+  - Bullhorn recomienda usar el historial de candidatos para detectar empresas que trabajaron con agencias rivales ("already open to agency work") ([Bullhorn](https://www.bullhorn.com/uk/blog/uk-blog-how-to-find-clients-recruitment-agency/)).
+  - Hay guías para revisar casos de éxito y logos de agencias competidoras ([Liveforce](https://liveforce.co/blog/how-to-find-companies-that-use-staffing-agencies/)) y para descubrir al cliente oculto detrás de una oferta de agencia ([WizardSourcer](https://wizardsourcer.com/uncover-recruitment-agencies-client/)).
+- **Arca24 JobRadar** (Arca24 pertenece a TeamSystem desde noviembre de 2025) permite elegir un competidor y una ubicación y ver las ofertas que publica, con alertas ([Arca24](https://www.arca24.com/en/?p=43294)). Cobertura en España y precio: **desconocidos**. Es el competidor más cercano a la idea de "antecedentes".
+- Recruitly anuncia un "Competitor Intelligence Tracker" ("coming soon"; sin verificar).
+- **No encontramos** un producto que diga directamente "esta empresa usa agencias" (1 búsqueda; evidencia débil).
+- **En España**, la fuente pública más rica es **Manfred** (getmanfred.com): publica sus procesos con el nombre del cliente, el salario y la fecha de cierre. Cobra el 15% del bruto anual a éxito, con exclusividad temporal por proceso ([companies-form](https://www.getmanfred.com/en/companies-form), [contrato v9](https://www.getmanfred.com/en/blog/nuestro-contrato-v9)). **Cualquier agencia puede consultarlo gratis.**
+- Talent Hackers (Madrid, red de referidos pagados) nombraría clientes en sus fichas; su modelo de cobro y sus fechas **no están verificados**.
+
+**Consecuencia:** el antecedente por sí solo no es diferencial. Lo potencialmente diferencial es la **combinación** (necesidad nueva verificada + antecedente datado + descarte de TA interno + qué procesos ya cubre otro proveedor), entregada **en español para España**. Eso hay que probarlo con agencias (`EXPERIMENT_2.md`).
+
+La investigación sistemática de competidores de esta ronda **no se completó**: el investigador falló por el límite de sesión. Siguen sin verificar la cobertura de Recruit Signals, Signalbase y Hirelytiq en España y si alguno detecta el TA interno.

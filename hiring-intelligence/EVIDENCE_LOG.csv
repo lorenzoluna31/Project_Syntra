@@ -12,3 +12,20 @@ fecha,tipo,item,afirmacion,fuente,metodo,estado
 2026-10-13,oportunidad,Aily Labs,"Busca TA Partners internos en BCN/MAD",https://ailylabs.jobs.personio.com/job/1567870,fragmento buscador,parcial (vigencia no confirmada)
 2026-10-13,legal,LSSI art. 21,"Prohíbe email comercial no solicitado también a personas jurídicas",https://www.fieldfisher.com/es-es/locations/spain/insights/bases-datos-empresariales,fragmento buscador,parcial (no es asesoramiento legal)
 2026-10-13,proceso,Producción del piloto,"~40 búsquedas para obtener 2 oportunidades utilizables + 1 descartada",esta sesión,medición propia,hecho
+2026-10-13,oportunidad,Prosper AI,"Serie A USD 30M a16z, 22-06-2026",https://www.getprosper.ai/blog/prosper-ai-raises-30m-from-andreessen-horowitz-to-scale-the-first-ai-platform-to-run-the-entire-patient-journey,verificado por el fundador,hecho
+2026-10-13,oportunidad,Prosper AI,~10M EUR en el hub de IA de Barcelona,https://www.lavanguardia.com/dinero/20260622/11572460/startup-prosper-invertira-10-millones-hub-ia-barcelona.html,verificado por el fundador,hecho
+2026-10-13,antecedente,Prosper AI,Proceso gestionado por Manfred (ago-2026),https://www.getmanfred.com/ofertas-empleo/8452/prosper-senior-product-engineer-ago26,verificado por el fundador,hecho (vigencia desconocida)
+2026-10-13,antecedente,Prosper AI,"Proceso gestionado por Manfred, cerrado el 31/10/2024",https://www.getmanfred.com/ofertas-empleo/4815/prosper-frontend-lead-developer-sept24,verificado por el fundador,hecho
+2026-10-13,oportunidad,Prosper AI,Vacantes en BCN en Ashby (sin fecha),https://jobs.ashbyhq.com/prosper-ai,fragmento de buscador,parcial
+2026-10-13,método,Manfred,Cobra el 15% del bruto anual solo a éxito; exclusividad temporal por proceso (al menos 1 mes),https://www.getmanfred.com/en/blog/nuestro-contrato-v9,fragmento de buscador (página oficial),parcial
+2026-10-13,antecedente,Tucuvi,3 procesos Manfred feb-2026,https://www.getmanfred.com/ofertas-empleo/8278/tucuvi-platform-engineer-feb26,fragmento de buscador,parcial
+2026-10-13,antecedente,Valsea Technologies,4 procesos Manfred jul-sep 2026 (3 cerrados),https://www.getmanfred.com/ofertas-empleo/8360/valsea-technologies-senior-go-developer-jul26,fragmento de buscador,parcial
+2026-10-13,antecedente,Murphy AI,Caso de éxito de Kulturo (de 0 a más de 20 personas),https://www.kulturo.tech/programadores-ia,fragmento de buscador,parcial (sin fecha)
+2026-10-13,oportunidad,Kompanion,CEO: de 2 a ~8 ingenieros para abril de 2027,https://www.elnacional.cat/oneconomia/ca/empreses/kompanion-plataforma-emprenedors-aspira-ser-stripe-atlas-espanya_1704538_102.html,fragmento de buscador (cita literal),parcial
+2026-10-13,descarte,JetBrains Spain,Talent Sourcer en Madrid (TA interno),https://job-boards.eu.greenhouse.io/jetbrains/jobs/4773679101,fragmento de buscador,parcial
+2026-10-13,competidor,Arca24 JobRadar,Rastrea ofertas de agencias competidoras,https://www.arca24.com/en/?p=43294,fragmento de buscador,parcial (cobertura ES desconocida)
+2026-10-13,mercado,Práctica BD,Apuntar a empresas que ya usan agencias es una práctica conocida,https://www.bullhorn.com/uk/blog/uk-blog-how-to-find-clients-recruitment-agency/,fragmento de buscador,parcial
+2026-10-13,cobro,Payoneer,Recibir desde banco UE 1%; retiro a Argentina 2%,https://www.payoneer.com/pricing/,fragmento de buscador (página oficial),parcial; elegibilidad EUR para AR no verificada
+2026-10-13,cobro,Wise,Elegibilidad para residentes argentinos no confirmada ('depende de la ubicación'),https://wise.com/help/articles/2897238/which-currencies-can-i-add-keep-and-receive-in-my-wise-account,fragmento de buscador,no verificado
+2026-10-13,legal,AEPD,Interpretación amplia de comunicación comercial,https://www.aepd.es/documento/e-06761-2016.pdf,fragmento de buscador,parcial
+2026-10-13,proceso,Rondas 2 y 3,"~270 búsquedas, 19 agentes (4 fallaron por el límite de sesión) y ~1,4M tokens: 1 oportunidad condicional + 1 Modelo A + 9 casos de referencia",esta sesión,medición propia,hecho

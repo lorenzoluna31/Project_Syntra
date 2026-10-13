@@ -77,3 +77,24 @@ Descartado por ahora: **ciberseguridad en España**. Hay pocas boutiques visible
 - **LSSI art. 21 (España):** prohíbe comunicaciones comerciales por email no solicitadas **también a empresas (personas jurídicas)**. Hace falta consentimiento expreso, salvo relación contractual previa. La AEPD aplica la LSSI como norma especial ([Fieldfisher](https://www.fieldfisher.com/es-es/locations/spain/insights/bases-datos-empresariales), [AEPD](https://www.aepd.es/documento/e-00620-2017.pdf)).
 - **Consecuencia:** **nada de enviar ofertas por email en frío a agencias españolas.** Secuencia propuesta: (1) primer contacto **no comercial** por formulario web o LinkedIn, pidiendo opinión o una entrevista de 15 minutos, sin oferta; (2) la oferta solo se manda si la persona responde y la pide. Esto es interpretación nuestra, **no asesoramiento legal**. Revisar la frontera "solicitud de entrevista vs. comunicación comercial" con una fuente fiable.
 - **RGPD:** el informe **no incluye datos personales** (solo empresas, hechos públicos y cargos genéricos). Así se minimiza el riesgo. En la propuesta de valor no hay emails ni nombres de decisores.
+
+---
+
+## 7. Rondas 2 y 3 (2026-10-13): resumen y obstáculos
+
+**Método:** 2 rondas multiagente (19 agentes) con lectura indirecta vía buscador. Detalle de cada afirmación en `VERIFICATION_STATUS.md`. Casos en `CASES_EXTERNAL_RECRUITING.csv`. Modelos en `MODELS.md`.
+
+**Hallazgos que cambian la estrategia:**
+1. **Manfred publica sus procesos con el nombre del cliente** (salario, fecha en el slug, "Oferta cerrada el…"). Es la fuente pública más rica en España de "empresas que pagaron intermediación tech". Modelo de Manfred: 15% del bruto anual solo a éxito; exclusividad temporal por proceso.
+2. **Apuntar a empresas que ya usan agencias es una práctica de BD conocida** (Bullhorn, guías del sector). Arca24 JobRadar rastrea ofertas de competidores. **No es una idea nueva.**
+3. **El filtro de TA interno descarta candidatas "calientes"**: JetBrains Spain (Talent Sourcer en Madrid) y Aily Labs (Head of Recruitment). Funciona como filtro, pero es fácil de copiar.
+4. Volumen estimado de oportunidades de calidad: **1-3 por mes por nicho y ciudad** (estimación a partir de unas 30 rondas al mes en España y de que los IDs de Manfred avanzan unos 200 en 7 meses).
+
+**Obstáculos:**
+- **Límite de 200 búsquedas por turno**, compartido por todos los agentes. En la ronda 2, los investigadores de descubrimiento lo agotaron (uno solo usó 110) y la verificación escéptica, legal, cobros, agencias y competidores no pudieron buscar.
+- En la ronda 3, **4 de 7 agentes fallaron por el límite de sesión** de la cuenta (cobros, legal/canales, agencias y competidores).
+- El buscador **no accede** a lavanguardia.com, expansion.com, elconfidencial.com, elperiodico.com, europapress.es ni economiadigital.es (error 400 con allowed_domains; si se incluye uno de ellos falla la consulta entera). La nota de La Vanguardia sobre Prosper la verificó el fundador.
+- El índice del buscador sobre getmanfred.com está desactualizado para ago-oct 2026: 8 búsquedas dirigidas devolvieron sobre todo ofertas de 2022-2025.
+- Ashby, Greenhouse y LinkedIn indexados **no muestran fechas** de publicación.
+
+**Dominios a agregar al acceso web** (además de `NETWORK_SETUP.md`): `getprosper.ai`, `tucuvi.com`, `kompanion.es`, `elnacional.cat`, `tech.eu`, `beckershospitalreview.com`, `capital-riesgo.es`, `talenthackers.net`, `arca24.com`.

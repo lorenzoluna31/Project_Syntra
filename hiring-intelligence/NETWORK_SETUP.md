@@ -110,3 +110,9 @@ Los dominios de las agencias y empresas nuevas que surjan de esta ronda de inves
 1. Cada URL citada en `reports/` y `OPPORTUNITIES.csv`: que exista, que la fecha y el texto coincidan, y guardar la fecha de acceso.
 2. Vacantes vivas por API (Personio, Greenhouse, Lever, Ashby, Workable) con `tools/ats_snapshot.py`. Las fotos fechadas quedan en `data/ats_snapshots.sqlite` y permiten detectar republicaciones con el tiempo.
 3. Páginas oficiales de Wise, Payoneer, BCRA y ARCA para el método de cobro.
+
+## Otros límites observados (2026-10-13)
+- **WebSearch:** máximo de **200 búsquedas por turno**, compartidas entre todos los agentes. El mensaje de error menciona la variable `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`. No es un problema de red: es un tope de uso.
+- **Límite de sesión de la cuenta:** en la ronda 3, 4 agentes fallaron con "You've hit your session limit".
+- **Dominios que el buscador no lee:** lavanguardia.com, expansion.com, elconfidencial.com, elperiodico.com, europapress.es, economiadigital.es. Con acceso web directo (Custom) se podrían abrir; agregarlos a la lista si hacen falta.
+- Agregar también: `getprosper.ai`, `tucuvi.com`, `kompanion.es`, `elnacional.cat`, `tech.eu`, `beckershospitalreview.com`, `capital-riesgo.es`, `talenthackers.net`, `arca24.com`.

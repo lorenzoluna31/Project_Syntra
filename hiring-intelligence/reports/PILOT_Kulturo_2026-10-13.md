@@ -1,3 +1,5 @@
+> **HISTÓRICO, reemplazado por `PILOT_v2_2026-10-13.md`.** Mirai RiskTech quedó descartada y Kompanion fue reclasificada.
+
 # Informe piloto de oportunidades comerciales: BORRADOR
 
 **Para:** Kulturo (Barcelona), selección tech boutique (software, IA/ML, producto) para startups y scaleups.
