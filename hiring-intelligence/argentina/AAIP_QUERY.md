@@ -20,9 +20,6 @@ Confirmá que estos datos sigan vigentes en argentina.gob.ar/aaip.
 
 ---
 
----
-
-
 **Asunto:** Consulta sobre obligaciones de inscripción y publicidad para una prospección comercial B2B de pequeña escala
 
 Buenos días:
