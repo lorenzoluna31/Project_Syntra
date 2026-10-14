@@ -10,3 +10,10 @@
 | `LEGAL_AR.md` | Distinciones legales, inscripción de la base (AAIP) y pendientes ⚠ |
 | `PLAN_AR.md` | Corrección sobre el tamaño del mercado, plan, diagnóstico y decisión |
 | `TRACKER_AR.csv` | Registro de contactos y resultados |
+
+## Cierre de la investigación general (2026-10-14)
+No se hace más investigación general. Archivos activos:
+- `HR_OASIS_MESSAGE.md`: mensaje para HR Oasis (no enviado).
+- `AAIP_QUERY.md`: consulta a la AAIP (no enviada).
+- `BUYER_CONVERSATION_10MIN.md`: guía de 10 minutos.
+- `GO_NO_GO.md`: criterios para continuar, pivotar o abandonar.
