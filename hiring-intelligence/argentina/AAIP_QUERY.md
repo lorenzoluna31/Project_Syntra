@@ -1,8 +1,27 @@
-# Consulta para la AAIP (Dirección Nacional de Protección de Datos Personales) — NO enviada
+# Consulta para la AAIP (Dirección Nacional de Protección de Datos Personales): AUTORIZADA, pendiente de envío por el fundador
 
-**Canal sugerido:** el canal de consultas que publica la AAIP en argentina.gob.ar/aaip (verificalo al enviar). Guardá el número de trámite o la respuesta en el repositorio.
+## Cómo presentarla (acción del fundador)
+Claude no pudo presentarla por dos motivos: la dirección de correo oficial aparece **oculta** ("[email protected]") en las páginas indexadas, y enviarla implica actuar con tu identidad.
+
+**Canales oficiales** ([página de datos personales de la AAIP](https://www.argentina.gob.ar/aaip/datospersonales)):
+1. **Email de "asesoramiento a empresas y entidades"**: abrí la página oficial y copiá la dirección exacta (no la escribas de memoria).
+2. Teléfono (54-11) 3988-3968.
+3. Mesa de Entrada: Julio A. Roca 710, piso 2, CABA, de lunes a viernes de 9 a 15 h.
+
+Confirmá que estos datos sigan vigentes en argentina.gob.ar/aaip.
+
+**Campos a completar:**
+- De: tu email.
+- Para: la dirección oficial copiada de la página.
+- Asunto y cuerpo: el texto de abajo.
+- Firma: nombre y apellido y email. **No incluyas DNI ni CUIT salvo que la AAIP lo exija.**
+
+**Registro:** cuando la envíes, completá `AAIP_LOG.md` con la fecha, el canal y el número de trámite si lo hay. Pegá ahí la respuesta oficial textual.
 
 ---
+
+---
+
 
 **Asunto:** Consulta sobre obligaciones de inscripción y publicidad para una prospección comercial B2B de pequeña escala
 
@@ -20,8 +39,9 @@ Soy una persona humana residente en Argentina. Estoy evaluando ofrecer un servic
 1. ¿Esta planilla constituye una base de datos que debo inscribir en el Registro Nacional de Bases de Datos Personales? En ese caso, ¿debo inscribirme primero como responsable (persona humana) y luego la base, con la finalidad "Publicidad, venta directa y similares"?
 2. ¿Las direcciones de email corporativas genéricas de personas jurídicas están alcanzadas por la Ley 25.326 (art. 1, en lo pertinente a personas de existencia ideal)?
 3. ¿Está vigente la Disposición DNPDP 4/2009? ¿Existen normas posteriores que modifiquen los requisitos de identificación ("publicidad" en el encabezado) y del aviso de retiro o bloqueo?
-4. ¿Hay algún otro requisito aplicable a este tipo de contacto B2B que no haya mencionado?
+4. Si una empresa publica en su sitio web un email genérico de contacto comercial, ¿bajo qué condiciones puedo enviarle una propuesta de colaboración no solicitada? (Por ejemplo: identificación como "publicidad", aviso de retiro o bloqueo, inscripción previa de la base u otras.)
+5. ¿Hay algún otro requisito aplicable a este tipo de contacto B2B que no haya mencionado?
 
 Agradezco desde ya su respuesta.
 
-[Nombre y apellido] · [DNI/CUIT si lo requieren] · [email]
+[Nombre y apellido] · [email]

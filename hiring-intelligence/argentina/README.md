@@ -17,3 +17,5 @@ No se hace más investigación general. Archivos activos:
 - `AAIP_QUERY.md`: consulta a la AAIP (no enviada).
 - `BUYER_CONVERSATION_10MIN.md`: guía de 10 minutos.
 - `GO_NO_GO.md`: criterios para continuar, pivotar o abandonar.
+- `AAIP_LOG.md`: registro de la consulta (autorizada; pendiente de envío por el fundador).
+- `FIRST_CONVERSATION_MATRIX.md`: matriz para registrar y decidir después de cada conversación.
