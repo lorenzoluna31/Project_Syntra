@@ -1,64 +1,42 @@
-# Mensajes para revisar (NO enviados)
+# Mensajes breves por segmento (NO enviados; requieren tu autorización y los ⚠ legales resueltos)
 
-Hay 3 variantes según el tipo de agencia. La línea de personalización sale de la columna `angulo_mensaje` de `AGENCIES_AR.csv` y **solo puede usar hechos verificados de la web de la agencia**.
+La línea **[personalización]** usa solo hechos de la web de la agencia (columna `angulo_personalizacion` de `AGENCIES_AR.csv`).
 
-## Variante 1: boutiques de selección IT (HR Oasis, Hunting IT, Duhire, IT Scout, Solutix, Shilton, IT Skills)
-**Asunto:** Publicidad – ¿Qué empresas valen la pena contactar? (ejemplo de 1 página)
-
-> Hola, equipo de [agencia]:
->
-> Soy [nombre], de [ciudad]. Estoy armando un servicio de investigación comercial para agencias de selección IT y antes de venderlo quiero saber si resuelve un problema real.
->
-> [Personalización: p. ej. "Vi que trabajan selección IT con seguimiento personalizado".] Les propongo dos formatos y me interesa saber si alguno les sirve, o por qué no:
-> 1. **Descubrimiento:** empresas que ustedes no tienen en el radar, con vacantes comprobadas en su especialidad y datos de si ya trabajan con otras agencias.
-> 2. **Fichas de cuentas que ustedes elijan:** qué buscan contratar, si tienen selección interna y quién más las está reclutando.
->
-> Adjunto una ficha de ejemplo hecha solo con información pública. ¿Tendrían 15 minutos para contarme cómo consiguen clientes hoy? No hace falta comprar nada para hablar.
->
-> [Nombre y apellido] · [ciudad] · [email] · [LinkedIn]
-
-## Variante 2: staffing remoto para clientes del exterior (beon.tech, Staffrock IT, Siltium, Bvision, Bandit, Kiwi Talent, HRBaires)
-**Asunto:** Publicidad – Empresas de EE. UU. y España que empiezan a contratar devs remotos
+## Segmento 1: agencias con clientes internacionales (HR Oasis, BEON.tech, Nexton)
+**Asunto:** Publicidad – Qué empresas extranjeras están por contratar devs en LatAm
 
 > Hola, equipo de [agencia]:
->
-> Soy [nombre], de [ciudad]. Investigo señales comerciales para empresas que venden talento tech argentino al exterior: compañías que levantaron capital, abren equipos de ingeniería y ya usan intermediarios para contratar.
->
-> Ejemplo real adjunto: una empresa de IA con base en Nueva York y hub en Barcelona que quiere duplicar su equipo este año y que ya trabaja con un intermediario para un puesto, pero no para otro.
->
-> Quiero entender si este tipo de información les ahorraría trabajo o si ya la consiguen. ¿15 minutos esta semana o la próxima?
->
-> [firma]
+> Soy [nombre y apellido], de [ciudad]. [Personalización: p. ej. "Leí su guía sobre startups internacionales que contratan developers argentinos".]
+> Estoy probando dos servicios para agencias como la suya y quiero saber si alguno resuelve un problema real:
+> 1. Detectar empresas del exterior que están ampliando ingeniería y aceptan talento remoto, con fuente y fecha de cada dato.
+> 2. Investigar a fondo una empresa que ustedes ya estén evaluando: qué contrata, si tiene selección interna y si ya trabaja con intermediarios.
+> ¿Tienen 15 minutos para contarme cómo consiguen clientes hoy? No hace falta comprar nada para hablar.
+> [Nombre] · [email] · [LinkedIn]
 
-## Variante 3: executive search con línea IT (Wall Chase, Valuar)
-**Asunto:** Publicidad – Señales de expansión y liderazgo técnico en empresas tech
+## Segmento 2: agencias de selección IT en Argentina (Solutix, Duhire, Bandit y las que se verifiquen)
+**Asunto:** Publicidad – ¿Cómo encuentran empresas nuevas que necesiten perfiles IT?
 
 > Hola, equipo de [agencia]:
->
-> Soy [nombre]. Preparo investigación comercial para firmas de búsqueda: empresas que se expanden, incorporan líderes técnicos o abren equipos nuevos, con fuente y fecha para cada dato.
->
-> Adjunto un ejemplo. ¿Les serviría algo así o lo resuelven con sus propias herramientas? Me ayudaría mucho saberlo en una llamada de 15 minutos.
->
-> [firma]
+> Soy [nombre y apellido], de [ciudad]. [Personalización: p. ej. "Vi que tienen búsquedas abiertas de perfiles de IA".]
+> Estoy validando un servicio de investigación comercial para agencias de selección IT: encontrar empresas que están por contratar en su especialidad, o investigar las que ya tienen en la mira. Antes de ofrecer nada quiero entender si es un problema real para ustedes.
+> ¿Tienen 15 minutos esta semana o la próxima?
+> [Nombre] · [email] · [LinkedIn]
 
-## Pie obligatorio (igual en las tres variantes)
+## Pie obligatorio (los dos segmentos)
 > ---
-> **Este mensaje es publicidad.** Si no desean recibir más comunicaciones, respondan "BAJA" y su dirección será retirada de inmediato y en forma definitiva.
-> Su email fue obtenido de [URL de la web de la agencia], fuente de acceso público.
-> [Transcripción literal del art. 27 inc. 3 de la Ley 25.326 y del art. 27, párrafo 3, del Anexo I del Decreto 1558/01, copiada de Infoleg.]
+> **Este mensaje es publicidad.** Si no desean recibir más comunicaciones, respondan "BAJA" y su dirección se retirará de inmediato y en forma definitiva. Obtuvimos esta dirección de [URL de su web], fuente de acceso público. [Transcripción literal: art. 27 inc. 3 de la Ley 25.326 y art. 27, párr. 3, del Anexo I del Decreto 1558/01.] [Si corresponde: número de inscripción de la base en el Registro Nacional de Bases de Datos.]
 
-## Seguimiento (uno solo, a los 5-7 días hábiles y solo si no hubo respuesta ni baja)
-**Asunto:** Publicidad – Re: [asunto original]
-> Retomo por si se perdió. Si no es un tema para ustedes, con responder "no" me alcanza y no vuelvo a escribir. [Pie obligatorio]
+## Un solo seguimiento (días 5-7, si no hubo respuesta ni baja)
+**Asunto:** Publicidad – Re: [asunto]
+> Retomo por si se perdió. Si no les interesa, con un "no" me alcanza y no vuelvo a escribir. [Pie]
 
-## Respuesta a una agencia que contesta con interés
-> Gracias, [nombre]. ¿Te queda bien [día/hora] o [día/hora] (hora de Argentina)? Te mando un enlace de Meet. Son 15 minutos: quiero entender cómo consiguen clientes; si al final alguno de los formatos tiene sentido, te paso una propuesta concreta.
+## Si responden con interés
+> Gracias, [nombre]. ¿Les queda bien [día/hora] o [día/hora]? Son 15 minutos y les mando un link de Meet. Quiero entender cómo trabajan; si alguno de los dos formatos tiene sentido, después les paso una propuesta concreta.
 
-## Llamada
-Usar `../kit/CALL_SCRIPT_15MIN.md`, **agregando estas preguntas** (cubren la pregunta económica central):
+**Guion de la llamada:** `../kit/CALL_SCRIPT_15MIN.md`, más estas preguntas:
 - ¿Qué tareas comerciales hacen a mano y cuál les come más tiempo?
 - ¿Tercerizan algo hoy (sourcing, research, generación de leads)? ¿A quién y cuánto pagan?
 - ¿Cuánto invierten al mes en herramientas o investigación comercial?
-- **"Si le pidieran esta ficha a ChatGPT, ¿qué les faltaría?"** (Mostrar la ficha.) Si contestan "nada", anotarlo textual: B queda descartado para esa agencia.
+- "Si le pidieran esto a ChatGPT, ¿qué les faltaría?" (mostrar la ficha de ejemplo). Anotar la respuesta textual.
 - ¿Qué tendría que cumplir un proveedor externo para que lo contraten (precio, formato, garantía, velocidad)?
-- Entre descubrir empresas nuevas (A) e investigar las que ya tienen (B), ¿cuál resolvería un problema que hoy les **cuesta plata**? ¿Por qué?
+- Entre descubrir empresas nuevas (A) e investigar las que ya tienen (B), ¿cuál resolvería algo que hoy les **cuesta plata**? ¿Por qué?

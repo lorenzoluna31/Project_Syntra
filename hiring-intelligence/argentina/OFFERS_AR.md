@@ -1,5 +1,7 @@
 # Dos propuestas para agencias argentinas y comparación de valor y costo
 
+**Ambos modelos son EXPERIMENTALES.** Los precios (USD 90 por oportunidad, USD 150 por 3 fichas) son hipótesis calculadas desde el costo: no hay compradores, ni recompras, ni ventaja competitiva comprobada. En las conversaciones se investiga cuánto les cuesta hoy el problema y qué usan para resolverlo. No se cambian los precios por intuición ni se trabaja gratis.
+
 **No elegimos ganador antes de hablar con compradores.** Los precios son **hipótesis para probar**, calculados desde el costo. No sabemos cuánto pagan las agencias argentinas: **no hay ninguna evidencia de disposición a pagar**.
 
 ## Modelo A: Descubrimiento de oportunidades
@@ -50,10 +52,5 @@
 
   En ambos casos es medio tiempo dedicado a servicios. **Solo escala si una parte importante se automatiza**, y eso no lo probamos.
 
-## La prueba de diferenciación que hay que hacer ANTES de las llamadas (20 min, gratis)
-El fundador le pide a ChatGPT (o a cualquier asistente con búsqueda web): "Hacé una ficha comercial de Prosper AI para una agencia de reclutamiento: financiación, vacantes abiertas, si usa agencias o intermediarios, si tiene equipo interno de selección. Con fuentes."
-Después se compara con `../kit/DEMO_1PAGE.md`:
-- Si ChatGPT encuentra la oferta de Manfred, distingue Product vs. AI Engineer y verifica las vacantes vigentes, **B no tiene diferencial** y solo queda A.
-- Si no, anotamos **qué** se le escapó: ese es nuestro diferencial concreto, y es lo que hay que mostrar en la llamada.
-
-Hay que registrar el resultado en `TRACKER_AR.csv` (fila "baseline") antes de contactar a nadie.
+## Comparación con IA generalista
+Ver `AI_BASELINE_COMPARISON.md`, la prueba hecha con un asistente nuevo, sin contexto, con el mismo objetivo y un tope de búsquedas comparable.
